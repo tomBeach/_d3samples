@@ -1,11 +1,18 @@
 # d3samples...
 A look at my work in d3...
 
+
 picking up steam on my d3 adventure
+
+
 it's a single js file 
+
 stepping back in time 
+
 from where I am to 
+
 where I started
+
 
 goals:
 
