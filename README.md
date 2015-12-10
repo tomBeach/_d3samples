@@ -1,19 +1,17 @@
 # d3samples...
-A look at my work in d3...
+  A look at my work in d3...
 
 
+== picking up steam on my d3 adventure ==
 
 
-picking up steam on my d3 adventure
+  it's a single js file 
 
+  stepping back in time 
 
-it's a single js file 
+  from where I am to 
 
-stepping back in time 
-
-from where I am to 
-
-where I started
+  where I started
 
 
 goals:
