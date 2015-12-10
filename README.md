@@ -2,6 +2,8 @@
 A look at my work in d3...
 
 
+
+
 picking up steam on my d3 adventure
 
 
